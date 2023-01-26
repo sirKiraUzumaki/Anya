@@ -7,13 +7,16 @@ Anya is a WhatsApp bot created in Node JS using the whatsapp-web.js library.
 `Lyrics`: Allows users to search and receive lyrics for their favorite songs.
 
 # Getting Started
-Clone the repository: git clone https://github.com/YOUR_USERNAME/Anya.git
-Install the dependencies: npm install
-Run the bot:  `npm star`
+
+Clone the repository: git clone https://github.com/sirKiraUzumakiAnya.git
+
+Install the dependencies: `npm install`
+
+Run the bot:  `npm start`
 
 # Usage
 - Open WhatsApp on your phone and scan the QR code that appears on the terminal or command prompt.
-- Once logged in, you can start interacting with the bot by sending commands like !eval, !youtube and !lyrics.
+- Once logged in, you can start interacting with the bot by sending commands like `!eval`, `!youtube` and `!lyrics`.
 
 # Note
 - Please make sure you are using the latest version of Node.js.
