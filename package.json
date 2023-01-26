@@ -1,0 +1,19 @@
+{
+  "name": "anya",
+  "version": "1.0.0",
+  "description": "WhatsApp bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sirkira",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "qrcode-terminal": "^0.12.0",
+    "solenolyrics": "^5.0.0",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#fix-buttons-list",
+    "youtube-mp3-downloader": "^0.7.11",
+    "ytdl-core": "^4.11.2"
+  }
+}
