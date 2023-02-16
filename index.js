@@ -4,7 +4,7 @@ const solenolyrics= require("solenolyrics");
 const tools = require('./Utilis/tools.js')
 const database = require('./Database/products.json')
 
-const adminNum = "918949950576@c.us"
+const adminNum = "911111111111@c.us"
 const client = new Client({
     authStrategy: new LocalAuth(),
     puppeteer: { headless: true,
